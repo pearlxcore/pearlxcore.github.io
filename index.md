@@ -2,7 +2,7 @@
 
 ### PS4 Error Code Database
 
-This website lists error codes that can appear in Playstation 4 system, with error names and what actions you can take. Error codes appear when something goes wrong on the PS4, either in the application or in logs.
+This website lists error codes that can appear in Playstation 4 system, with error names and what actions you can take. 
 
 [PS4 Error Code Database](https://pearlxcore.github.io/ps4errorcode/)
 
