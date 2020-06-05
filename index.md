@@ -11,3 +11,15 @@ This website lists error codes that can appear in Playstation 4 system, with err
 Get the latest release stats like download counts, release dates, author on any Github project.
 
 [Github Release Stats](https://pearlxcore.github.io/githubreleasestats/)
+
+### Huawei Router Tool
+
+Huawei Router Tool is a tool to interact with Huawei router using Huawei API.
+
+[Huawei Router Tool](https://github.com/pearlxcore/Huawei-Router-Tool/)
+
+### PS4 PKG Tool
+
+The tool allows us to manage and perform various operations on PS4 PKG.
+
+[PS4 PKG Tool](https://github.com/pearlxcore/PS4-PKG-Tool/)
